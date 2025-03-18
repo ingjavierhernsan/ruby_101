@@ -20,3 +20,4 @@ for x in 1..5
   carga_suma
   separacion
 end
+d
