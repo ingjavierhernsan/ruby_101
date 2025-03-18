@@ -27,4 +27,3 @@ end
 presentacion
 carga_suma
 finalizacion
-s
